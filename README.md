@@ -1,5 +1,5 @@
 # PSYCHOLOGICAL RESEARCH PROJECT
-Collaboration on a psychology research project for the development of basic statistical analysis and statistical inference. This project focuses on the results of 3 psychometric tests: resilience (ER), stress (EAE), and personality (OPERAS).
+Collaboration on a research project in psychology for the development of basic statistical analysis and statistical inference led by psychologist Mertillex Molina Ferré. This project focuses on the results of 3 psychometric tests: resilience (ER), stress (EAE), and personality (OPERAS).
 
 The psychometric tests used for the study are as follows:
 
